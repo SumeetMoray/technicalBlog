@@ -1,0 +1,35 @@
+/*!
+ * Start Bootstrap - The Big Picture HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+}
+
+
+/*background: url(http://placehold.it/1920x1080) no-repeat center center fixed;*/
+
+.full {
+  background: url(../images/windmill.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.headerText{
+    margin-top: 10px;
+    padding: 10px;
+    color: #ffffff;
+    background-color: transparent;
+}
+
+
+.navigationBar{
+
+    background-color: #204d74;
+}
